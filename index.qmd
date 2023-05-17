@@ -5,7 +5,7 @@ number-sections: true
 
 This is a website for the Penn State Quarto Qrew.
 
-We are a group of Penn Staters who are learning more about how Quarto can help us create more open, transparent, and reproducible research.
+We are a group of Penn Staters who are learning more about how [Quarto](https://quarto.org) can help us create more open, transparent, and reproducible research.
 
 
 

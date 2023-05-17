@@ -1,0 +1,14 @@
+---
+title: "How-to"
+number-sections: true
+---
+
+## Render Quarto site
+
+From the terminal, execute the following:
+
+```
+quarto render
+```
+
+Here are more tips about rendering: <https://quarto.org/docs/computations/caching.html#rendering>.

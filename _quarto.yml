@@ -3,6 +3,7 @@ project:
   render:
     - index.qmd
     - goals.qmd
+    - how_to.qmd
 
 website:
   title: "Quarto Qrew"
@@ -11,7 +12,8 @@ website:
       - href: index.qmd
         text: Home
       - goals.qmd
-      
+      - how_to.qmd
+
 format:
   html:
     theme: cosmo
