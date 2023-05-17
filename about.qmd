@@ -1,6 +1,0 @@
----
-title: "About"
-number-sections: true
----
-
-This is a placeholder document for the Quarto Qrew.

@@ -1,0 +1,16 @@
+---
+title: "Goals"
+number-sections: true
+---
+
+This page describes the goals of the Quarto Qrew.
+
+Initially, we're setting our our goals as individuals.
+
+## Rick Gilmore
+
+- How Quarto websites and books compare to `bookdown`.
+- Should I migrate my [PSYCH 490 course](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring/) for Fall 2023 to Quarto?
+- Should we migrate the Open Science Bootcamp 2023 [site](https://penn-state-open-science.github.io/bootcamp-2023/index.html) to Quarto?
+- What should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like?
+

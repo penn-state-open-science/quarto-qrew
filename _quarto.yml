@@ -2,7 +2,7 @@ project:
   type: website
   render:
     - index.qmd
-    - about.qmd
+    - goals.qmd
 
 website:
   title: "Quarto Qrew"
@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - goals.qmd
       
 format:
   html:

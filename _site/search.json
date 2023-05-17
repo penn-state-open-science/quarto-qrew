@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "This is a placeholder document for the Quarto Qrew."
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Quarto Qrew",
+    "section": "",
+    "text": "This page describes the goals of the Quarto Qrew.\nInitially, we’re setting our our goals as individuals."
+  },
+  {
+    "objectID": "goals.html#rick-gilmore",
+    "href": "goals.html#rick-gilmore",
+    "title": "Quarto Qrew",
+    "section": "1 Rick Gilmore",
+    "text": "1 Rick Gilmore\n\nHow Quarto websites and books compare to bookdown.\nShould I migrate my PSYCH 490 course for Fall 2023 to Quarto?\nShould we migrate the Open Science Bootcamp 2023 site to Quarto?\nWhat should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like?\n\n\n\nThis is a website for the Penn State Quarto Qrew.\nWe are a group of Penn Staters who are learning more about how Quarto can help us create more open, transparent, and reproducible research."
   }
 ]
