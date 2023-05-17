@@ -5,13 +5,15 @@ number-sections: true
 
 This page describes the goals of the Quarto Qrew.
 
-Initially, we're setting our our goals as individuals.
+## Individual goals
 
-## Rick Gilmore {#rick-gilmore}
+- How Quarto [websites](https://quarto.org/docs/websites/) and [books](https://quarto.org/docs/books/) compare to `bookdown`. [Rick](people.qmd#rick-gilmore).
+    - ~~How do I change the default output directory to `docs/` for use with GitHub pages? [Rick](people.qmd#rick-gilmore).~~
+- Should [Rick](people.qmd#rick-gilmore) migrate [PSYCH 490 course](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring/) for Fall 2023 to Quarto? [Rick](people.qmd#rick-gilmore).
+    - How would [Rick](people.qmd#rick-gilmore) combine a Quarto-based syllabus with revealJS-based slides?
+- Should [Rick](people.qmd#rick-gilmore) keep using Quarto within RStudio or move to VSCode?
 
-- How Quarto [websites](https://quarto.org/docs/websites/) and [books](https://quarto.org/docs/books/) compare to `bookdown`.
-    - How do I change the default output directory to `docs/` for use with GitHub pages?
-- Should I migrate my [PSYCH 490 course](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring/) for Fall 2023 to Quarto?
-- Should we migrate the Open Science Bootcamp 2023 [site](https://penn-state-open-science.github.io/bootcamp-2023/index.html) to Quarto?
-- What should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like?
-- Should I keep using Quarto within RStudio or move to VSCode?
+## Group goals
+
+- Should we migrate the Open Science Bootcamp 2023 [site](https://penn-state-open-science.github.io/bootcamp-2023/index.html) to Quarto? [Rick](people.qmd#rick-gilmore).
+- What should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like? [Rick](people.qmd#rick-gilmore).

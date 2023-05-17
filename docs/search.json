@@ -11,14 +11,21 @@
     "href": "goals.html",
     "title": "Goals",
     "section": "",
-    "text": "This page describes the goals of the Quarto Qrew.\nInitially, we’re setting our our goals as individuals."
+    "text": "This page describes the goals of the Quarto Qrew."
   },
   {
-    "objectID": "goals.html#rick-gilmore",
-    "href": "goals.html#rick-gilmore",
+    "objectID": "goals.html#individual-goals",
+    "href": "goals.html#individual-goals",
     "title": "Goals",
-    "section": "1 Rick Gilmore",
-    "text": "1 Rick Gilmore\n\nHow Quarto websites and books compare to bookdown.\n\nHow do I change the default output directory to docs/ for use with GitHub pages?\n\nShould I migrate my PSYCH 490 course for Fall 2023 to Quarto?\nShould we migrate the Open Science Bootcamp 2023 site to Quarto?\nWhat should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like?\nShould I keep using Quarto within RStudio or move to VSCode?"
+    "section": "1 Individual goals",
+    "text": "1 Individual goals\n\nHow Quarto websites and books compare to bookdown. Rick.\n\nHow do I change the default output directory to docs/ for use with GitHub pages? Rick.\n\nShould Rick migrate PSYCH 490 course for Fall 2023 to Quarto? Rick.\n\nHow would Rick combine a Quarto-based syllabus with revealJS-based slides?\n\nShould Rick keep using Quarto within RStudio or move to VSCode?"
+  },
+  {
+    "objectID": "goals.html#group-goals",
+    "href": "goals.html#group-goals",
+    "title": "Goals",
+    "section": "2 Group goals",
+    "text": "2 Group goals\n\nShould we migrate the Open Science Bootcamp 2023 site to Quarto? Rick.\nWhat should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like? Rick."
   },
   {
     "objectID": "how_to.html",
@@ -40,5 +47,26 @@
     "title": "How-to",
     "section": "3 Set-up GitHub pages to render site",
     "text": "3 Set-up GitHub pages to render site\nIf we have rendered the website to docs/ then GitHub Pages will automatically build our site when we commit to the master branch.\nHere is a screenshot of the the repository settings that make this possible.\n\n\n\nGitHub Pages settings"
+  },
+  {
+    "objectID": "people.html#daisy-lei",
+    "href": "people.html#daisy-lei",
+    "title": "People",
+    "section": "2 Daisy Lei",
+    "text": "2 Daisy Lei"
+  },
+  {
+    "objectID": "people.html#hollie-mullin",
+    "href": "people.html#hollie-mullin",
+    "title": "People",
+    "section": "3 Hollie Mullin",
+    "text": "3 Hollie Mullin"
+  },
+  {
+    "objectID": "people.html#sai-koneru",
+    "href": "people.html#sai-koneru",
+    "title": "People",
+    "section": "4 Sai Koneru",
+    "text": "4 Sai Koneru"
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "People"
+number-sections: true
+---
+
+## Rick Gilmore {#rick-gilmore}
+
+## Daisy Lei {#daisy-lei}
+
+## Hollie Mullin {#hollie-mullin}
+
+## Sai Koneru {#sai-koneru}

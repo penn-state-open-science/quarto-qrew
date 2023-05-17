@@ -4,6 +4,7 @@ project:
     - index.qmd
     - goals.qmd
     - how_to.qmd
+    - people.qmd
   output-dir: docs
 
 website:
@@ -14,6 +15,7 @@ website:
         text: Home
       - goals.qmd
       - how_to.qmd
+      - people.qmd
 
 format:
   html:
