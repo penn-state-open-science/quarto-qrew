@@ -4,6 +4,7 @@ project:
     - index.qmd
     - goals.qmd
     - how_to.qmd
+  output-dir: docs
 
 website:
   title: "Quarto Qrew"

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Qrew",
+    "section": "",
+    "text": "This is a website for the Penn State Quarto Qrew.\nWe are a group of Penn Staters who are learning more about how Quarto can help us create more open, transparent, and reproducible research."
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Goals",
+    "section": "",
+    "text": "This page describes the goals of the Quarto Qrew.\nInitially, we’re setting our our goals as individuals."
+  },
+  {
+    "objectID": "goals.html#rick-gilmore",
+    "href": "goals.html#rick-gilmore",
+    "title": "Goals",
+    "section": "1 Rick Gilmore",
+    "text": "1 Rick Gilmore\n\nHow Quarto websites and books compare to bookdown.\n\nHow do I change the default output directory to docs/ for use with GitHub pages?\n\nShould I migrate my PSYCH 490 course for Fall 2023 to Quarto?\nShould we migrate the Open Science Bootcamp 2023 site to Quarto?\nWhat should a workshop on R Markdown/RStudio/Quarto for the Bootcamp look like?\nShould I keep using Quarto within RStudio or move to VSCode?"
+  },
+  {
+    "objectID": "how_to.html",
+    "href": "how_to.html",
+    "title": "How-to",
+    "section": "",
+    "text": "From the terminal, execute the following:\nquarto render\nHere are more tips about rendering: https://quarto.org/docs/computations/caching.html#rendering."
+  },
+  {
+    "objectID": "how_to.html#change-default-output-directory",
+    "href": "how_to.html#change-default-output-directory",
+    "title": "How-to",
+    "section": "2 Change default output directory",
+    "text": "2 Change default output directory\nGitHub Pages prefers that website outputs live in the project’s root directory or in docs/.\nWe need to change the default output as follows. Edit the _quarto.yml file:\nproject:\n  type: website\n  render:\n    - index.qmd\n    - goals.qmd\n    - how_to.qmd\n  output-dir: docs\n\n\n\n\n\n\nNote\n\n\n\nWe need to create docs/ before rendering the site, of course. We’ll leave _site/ in place since it is the default for output-dir.\n\n\nThe following resource provides more information: https://quarto.org/docs/reference/projects/core.html"
+  }
+]

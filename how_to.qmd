@@ -12,3 +12,30 @@ quarto render
 ```
 
 Here are more tips about rendering: <https://quarto.org/docs/computations/caching.html#rendering>.
+
+## Change default output directory
+
+GitHub Pages prefers that website outputs live in the project's root directory or in `docs/`.
+
+We need to change the default output as follows.
+Edit the `_quarto.yml` file:
+
+```
+project:
+  type: website
+  render:
+    - index.qmd
+    - goals.qmd
+    - how_to.qmd
+  output-dir: docs
+```
+
+:::{.callout-note}
+
+We need to create `docs/` before rendering the site, of course.
+We'll leave `_site/` in place since it is the default for `output-dir`.
+
+:::
+
+The following resource provides more information: <https://quarto.org/docs/reference/projects/core.html>
+
