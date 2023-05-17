@@ -33,5 +33,12 @@
     "title": "How-to",
     "section": "2 Change default output directory",
     "text": "2 Change default output directory\nGitHub Pages prefers that website outputs live in the project’s root directory or in docs/.\nWe need to change the default output as follows. Edit the _quarto.yml file:\nproject:\n  type: website\n  render:\n    - index.qmd\n    - goals.qmd\n    - how_to.qmd\n  output-dir: docs\n\n\n\n\n\n\nNote\n\n\n\nWe need to create docs/ before rendering the site, of course. We’ll leave _site/ in place since it is the default for output-dir.\n\n\nThe following resource provides more information: https://quarto.org/docs/reference/projects/core.html"
+  },
+  {
+    "objectID": "how_to.html#set-up-github-pages-to-render-site",
+    "href": "how_to.html#set-up-github-pages-to-render-site",
+    "title": "How-to",
+    "section": "3 Set-up GitHub pages to render site",
+    "text": "3 Set-up GitHub pages to render site\nIf we have rendered the website to docs/ then GitHub Pages will automatically build our site when we commit to the master branch.\nHere is a screenshot of the the repository settings that make this possible.\n\n\n\nGitHub Pages settings"
   }
 ]

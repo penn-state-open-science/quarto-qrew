@@ -39,3 +39,10 @@ We'll leave `_site/` in place since it is the default for `output-dir`.
 
 The following resource provides more information: <https://quarto.org/docs/reference/projects/core.html>
 
+## Set-up GitHub pages to render site
+
+If we have rendered the website to `docs/` then GitHub Pages will automatically build our site when we commit to the master branch.
+
+Here is a screenshot of the the repository settings that make this possible.
+
+![GitHub Pages settings](img/github-pages-settings.jpg){fig-align="center"}
